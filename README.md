@@ -5,7 +5,7 @@
 
 <p align="center">
   <a>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines= Python%20developer;Experienced%20Django%2Flask%20Frameworks;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=600&lines=Python+Developer+Jr;Experienced+in+Django+%26+Flask+frameworks;2+years+of+coding+experience;Always+learning+new+things">
   </a>
 </p>
 
