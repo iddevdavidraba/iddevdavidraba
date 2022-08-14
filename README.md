@@ -34,7 +34,7 @@ const iddev = {
     <a href="https://www.linkedin.com/in/iddev-davidraba/" target="_blank">
         <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width='40' height='40' alt='linkedin' />
     </a>    
-    <a href="mailto:estefania_8_3@hotmail.com?Subject=Hi%20Andrea!">
+    <a href="mailto:iddev.davidraba@gmail.com?Subject=Hi%20Andrea!" target="_blank">
         <img src="https://img.icons8.com/nolan/64/email-open.png" width='40' height='40' alt='email'/>
     </a>
     </section>
